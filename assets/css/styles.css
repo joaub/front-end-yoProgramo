@@ -1,0 +1,18 @@
+/*esto es un comentario css*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+/*aca empieza el navbar*/
+.bg-nav{
+    background-color: #698999;
+}
+.nav-link{
+    color: beige;
+}
+.nav-link:hover{
+    color: #c2eb0f;
+}
+.navbar-collapse{
+    justify-content: right;
+}
