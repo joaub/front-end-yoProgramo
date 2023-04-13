@@ -16,3 +16,8 @@
 .navbar-collapse{
     justify-content: right;
 }
+/*container*/
+.container{
+    justify-content: center;
+    text-align: center;
+}
