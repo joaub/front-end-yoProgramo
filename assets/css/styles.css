@@ -16,8 +16,22 @@
 .navbar-collapse{
     justify-content: right;
 }
+/*banner*/
+
 /*container*/
 .container{
     justify-content: center;
     text-align: center;
+}
+.titulo{
+    text-align: center;
+}
+.redes{
+    justify-content: space-between;
+    padding: 0.5rem;
+}
+.about{
+    text-align: center;
+    display: flex;
+    justify-content: center;
 }
