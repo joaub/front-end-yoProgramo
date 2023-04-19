@@ -35,3 +35,14 @@
     display: flex;
     justify-content: center;
 }
+/*estudios*/
+.alura{
+    width: 20%;
+}
+.arg-programa{
+    width: 55%;
+}
+.fesat{
+    width: 50%;
+    height: 60%;
+}
